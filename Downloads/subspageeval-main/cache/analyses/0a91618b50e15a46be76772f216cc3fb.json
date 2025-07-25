@@ -1,0 +1,150 @@
+{
+  "cache_timestamp": "2025-07-25T23:02:40.654222",
+  "publisher_name": "Test Publisher (EN)",
+  "language": "en",
+  "analysis_result": {
+    "motivation_framework": {
+      "support_ratio": 0.75,
+      "mission_density": 0.21,
+      "feature_density": 0.16,
+      "identity_score": 0.3,
+      "community_score": 0.2,
+      "counts": {
+        "support": 3,
+        "transactional": 1,
+        "mission": 2,
+        "feature": 2,
+        "identity": 1,
+        "community": 1
+      },
+      "examples": {
+        "support": [
+          "support independent journalism",
+          "support the journalism",
+          "trust our fearless reporting"
+        ],
+        "transactional": [
+          "Get unlimited access"
+        ],
+        "mission": [
+          "independent journalism",
+          "holds power to account"
+        ],
+        "feature": [
+          "unlimited access to all articles",
+          "newsletters, and exclusive content"
+        ],
+        "identity": [
+          "fearless reporting"
+        ],
+        "community": [
+          "Join thousands of readers"
+        ]
+      }
+    },
+    "behavioral_triggers": {
+      "scarcity_score": 0.0,
+      "social_proof_score": 0.3,
+      "loss_aversion_score": 0.0,
+      "reciprocity_score": 0.2,
+      "authority_score": 0.2,
+      "counts": {
+        "scarcity": 0,
+        "social_proof": 1,
+        "loss_aversion": 0,
+        "reciprocity": 1,
+        "authority": 1
+      },
+      "examples": {
+        "scarcity": [],
+        "social_proof": [
+          "thousands of readers who trust"
+        ],
+        "loss_aversion": [],
+        "reciprocity": [
+          "support independent journalism"
+        ],
+        "authority": [
+          "holds power to account"
+        ]
+      }
+    },
+    "habit_formation": {
+      "temporal_score": 0.0,
+      "frequency_score": 0.1,
+      "convenience_score": 0.2,
+      "platform_score": 0.1,
+      "counts": {
+        "temporal": 0,
+        "frequency": 1,
+        "convenience": 1,
+        "platform": 1
+      },
+      "examples": {
+        "temporal": [],
+        "frequency": [
+          "unlimited access"
+        ],
+        "convenience": [
+          "all articles, newsletters, and exclusive content"
+        ],
+        "platform": [
+          "unlimited access"
+        ]
+      }
+    },
+    "emotional_appeals": {
+      "fear_score": 0.1,
+      "hope_score": 0.3,
+      "belonging_score": 0.2,
+      "status_score": 0.1,
+      "examples": {
+        "fear": [
+          "holds power to account"
+        ],
+        "hope": [
+          "support independent journalism",
+          "fearless reporting"
+        ],
+        "belonging": [
+          "Join thousands of readers"
+        ],
+        "status": [
+          "exclusive content"
+        ]
+      }
+    },
+    "cultural_adaptations": {
+      "cultural_elements": [
+        "emphasis on independence",
+        "accountability journalism",
+        "collective action"
+      ],
+      "local_references": [
+        "independent journalism",
+        "power to account"
+      ],
+      "communication_style": "direct",
+      "trust_building": [
+        "transparency about mission",
+        "emphasis on reader community",
+        "accountability focus"
+      ]
+    },
+    "total_words": 38,
+    "sophistication_score": 0.7,
+    "primary_strategy": "mission-driven",
+    "key_insights": [
+      "Heavy emphasis on mission and support over transactional elements",
+      "Strong use of community and trust-building language",
+      "Balances institutional authority with reader empowerment",
+      "Appeals to democratic values common in European context"
+    ],
+    "publisher_name": "Test Publisher (EN)",
+    "detected_language": "en",
+    "language_name": "English",
+    "analysis_timestamp": "2025-07-25T23:02:40.654081",
+    "analysis_method": "claude_ai",
+    "claude_model": "claude-3-5-sonnet-20241022"
+  }
+}

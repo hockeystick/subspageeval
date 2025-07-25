@@ -1,0 +1,141 @@
+{
+  "cache_timestamp": "2025-07-25T23:03:27.164354",
+  "publisher_name": "Test Publisher (PL)",
+  "language": "pl",
+  "analysis_result": {
+    "motivation_framework": {
+      "support_ratio": 0.67,
+      "mission_density": 0.15,
+      "feature_density": 0.15,
+      "identity_score": 0.2,
+      "community_score": 0.4,
+      "counts": {
+        "support": 2,
+        "transactional": 1,
+        "mission": 2,
+        "feature": 2,
+        "identity": 1,
+        "community": 2
+      },
+      "examples": {
+        "support": [
+          "wspieraj niezależne dziennikarstwo",
+          "Dołącz do społeczności"
+        ],
+        "transactional": [
+          "Subskrybuj"
+        ],
+        "mission": [
+          "niezależne dziennikarstwo",
+          "społeczności czytelników"
+        ],
+        "feature": [
+          "nieograniczony dostęp",
+          "artykułów, analiz i ekskluzywnych treści"
+        ],
+        "identity": [
+          "czytelników"
+        ],
+        "community": [
+          "społeczności",
+          "Dołącz do społeczności"
+        ]
+      }
+    },
+    "behavioral_triggers": {
+      "scarcity_score": 0.0,
+      "social_proof_score": 0.3,
+      "loss_aversion_score": 0.0,
+      "reciprocity_score": 0.2,
+      "authority_score": 0.1,
+      "counts": {
+        "scarcity": 0,
+        "social_proof": 1,
+        "loss_aversion": 0,
+        "reciprocity": 1,
+        "authority": 1
+      },
+      "examples": {
+        "scarcity": [],
+        "social_proof": [
+          "Dołącz do społeczności"
+        ],
+        "loss_aversion": [],
+        "reciprocity": [
+          "wspieraj niezależne dziennikarstwo"
+        ],
+        "authority": [
+          "niezależne dziennikarstwo"
+        ]
+      }
+    },
+    "habit_formation": {
+      "temporal_score": 0.0,
+      "frequency_score": 0.0,
+      "convenience_score": 0.2,
+      "platform_score": 0.1,
+      "counts": {
+        "temporal": 0,
+        "frequency": 0,
+        "convenience": 1,
+        "platform": 1
+      },
+      "examples": {
+        "temporal": [],
+        "frequency": [],
+        "convenience": [
+          "nieograniczony dostęp"
+        ],
+        "platform": [
+          "Gazetę Wyborczą"
+        ]
+      }
+    },
+    "emotional_appeals": {
+      "fear_score": 0.0,
+      "hope_score": 0.3,
+      "belonging_score": 0.4,
+      "status_score": 0.2,
+      "examples": {
+        "fear": [],
+        "hope": [
+          "wspieraj niezależne dziennikarstwo"
+        ],
+        "belonging": [
+          "Dołącz do społeczności czytelników"
+        ],
+        "status": [
+          "ekskluzywnych treści"
+        ]
+      }
+    },
+    "cultural_adaptations": {
+      "cultural_elements": [
+        "emphasis on community solidarity",
+        "support for independent journalism"
+      ],
+      "local_references": [
+        "Gazeta Wyborcza"
+      ],
+      "communication_style": "direct",
+      "trust_building": [
+        "reference to independent journalism",
+        "community membership"
+      ]
+    },
+    "total_words": 20,
+    "sophistication_score": 0.6,
+    "primary_strategy": "mission-driven",
+    "key_insights": [
+      "Strong emphasis on community and collective action",
+      "Appeals to civic responsibility through supporting independent journalism",
+      "Balances mission-driven messaging with practical benefits"
+    ],
+    "publisher_name": "Test Publisher (PL)",
+    "detected_language": "pl",
+    "language_name": "Polish",
+    "analysis_timestamp": "2025-07-25T23:03:27.164168",
+    "analysis_method": "claude_ai",
+    "claude_model": "claude-3-5-sonnet-20241022"
+  }
+}

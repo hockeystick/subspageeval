@@ -1,0 +1,151 @@
+{
+  "cache_timestamp": "2025-07-25T23:03:15.970629",
+  "publisher_name": "Test Publisher (ES)",
+  "language": "es",
+  "analysis_result": {
+    "motivation_framework": {
+      "support_ratio": 0.67,
+      "mission_density": 0.15,
+      "feature_density": 0.23,
+      "identity_score": 0.31,
+      "community_score": 0.38,
+      "counts": {
+        "support": 2,
+        "transactional": 1,
+        "mission": 2,
+        "feature": 3,
+        "identity": 1,
+        "community": 2
+      },
+      "examples": {
+        "support": [
+          "apoya el periodismo independiente",
+          "lectores comprometidos"
+        ],
+        "transactional": [
+          "Suscríbete"
+        ],
+        "mission": [
+          "periodismo independiente",
+          "análisis profundos"
+        ],
+        "feature": [
+          "contenido exclusivo",
+          "análisis profundos",
+          "newsletters"
+        ],
+        "identity": [
+          "lectores comprometidos"
+        ],
+        "community": [
+          "nuestra comunidad",
+          "Únete a nuestra comunidad"
+        ]
+      }
+    },
+    "behavioral_triggers": {
+      "scarcity_score": 0.15,
+      "social_proof_score": 0.31,
+      "loss_aversion_score": 0.0,
+      "reciprocity_score": 0.23,
+      "authority_score": 0.15,
+      "counts": {
+        "scarcity": 1,
+        "social_proof": 2,
+        "loss_aversion": 0,
+        "reciprocity": 1,
+        "authority": 1
+      },
+      "examples": {
+        "scarcity": [
+          "contenido exclusivo"
+        ],
+        "social_proof": [
+          "nuestra comunidad",
+          "lectores comprometidos"
+        ],
+        "loss_aversion": [],
+        "reciprocity": [
+          "apoya el periodismo independiente"
+        ],
+        "authority": [
+          "análisis profundos"
+        ]
+      }
+    },
+    "habit_formation": {
+      "temporal_score": 0.0,
+      "frequency_score": 0.08,
+      "convenience_score": 0.15,
+      "platform_score": 0.08,
+      "counts": {
+        "temporal": 0,
+        "frequency": 1,
+        "convenience": 1,
+        "platform": 1
+      },
+      "examples": {
+        "temporal": [],
+        "frequency": [
+          "newsletters"
+        ],
+        "convenience": [
+          "accede"
+        ],
+        "platform": [
+          "newsletters"
+        ]
+      }
+    },
+    "emotional_appeals": {
+      "fear_score": 0.0,
+      "hope_score": 0.23,
+      "belonging_score": 0.38,
+      "status_score": 0.15,
+      "examples": {
+        "fear": [],
+        "hope": [
+          "apoya el periodismo independiente"
+        ],
+        "belonging": [
+          "nuestra comunidad",
+          "Únete a nuestra comunidad"
+        ],
+        "status": [
+          "contenido exclusivo"
+        ]
+      }
+    },
+    "cultural_adaptations": {
+      "cultural_elements": [
+        "collective emphasis",
+        "community focus",
+        "social responsibility"
+      ],
+      "local_references": [
+        "El País"
+      ],
+      "communication_style": "direct",
+      "trust_building": [
+        "emphasis on independence",
+        "community membership",
+        "collective action"
+      ]
+    },
+    "total_words": 26,
+    "sophistication_score": 0.65,
+    "primary_strategy": "mission-driven",
+    "key_insights": [
+      "Strong emphasis on community and collective action",
+      "Balances mission-driven and feature-based appeals",
+      "Uses Spanish cultural preference for group belonging",
+      "Focuses on support rather than transaction"
+    ],
+    "publisher_name": "Test Publisher (ES)",
+    "detected_language": "es",
+    "language_name": "Spanish",
+    "analysis_timestamp": "2025-07-25T23:03:15.970509",
+    "analysis_method": "claude_ai",
+    "claude_model": "claude-3-5-sonnet-20241022"
+  }
+}

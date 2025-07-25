@@ -1,0 +1,176 @@
+{
+  "cache_timestamp": "2025-07-25T23:17:16.448766",
+  "publisher_name": "Test Publisher",
+  "language": "en",
+  "analysis_result": {
+    "motivation_framework": {
+      "support_ratio": 0.2,
+      "mission_density": 0.0,
+      "feature_density": 0.1,
+      "identity_score": 0.6,
+      "community_score": 0.4,
+      "counts": {
+        "support": 3,
+        "transactional": 2,
+        "mission": 0,
+        "feature": 8,
+        "identity": 12,
+        "community": 6
+      },
+      "examples": {
+        "support": [
+          "patient hammer wielded by a patient arm",
+          "to do some little job for them"
+        ],
+        "transactional": [
+          "altering, or repairing, or new shaping their various weapons"
+        ],
+        "mission": [],
+        "feature": [
+          "portable forge",
+          "weapons and boat furniture",
+          "boat-spades, pike-heads, harpoons"
+        ],
+        "identity": [
+          "artisan of famed excellence",
+          "blacksmith himself",
+          "young-armed old husband"
+        ],
+        "community": [
+          "eager circle, all waiting to be served",
+          "mariners",
+          "family's heart"
+        ]
+      }
+    },
+    "behavioral_triggers": {
+      "scarcity_score": 0.1,
+      "social_proof_score": 0.3,
+      "loss_aversion_score": 0.8,
+      "reciprocity_score": 0.2,
+      "authority_score": 0.4,
+      "counts": {
+        "scarcity": 2,
+        "social_proof": 4,
+        "loss_aversion": 12,
+        "reciprocity": 3,
+        "authority": 5
+      },
+      "examples": {
+        "scarcity": [
+          "famed excellence",
+          "plenty to do"
+        ],
+        "social_proof": [
+          "every one now knew",
+          "cheerful-looking church",
+          "eager circle"
+        ],
+        "loss_aversion": [
+          "robbed them all of everything",
+          "wretched fate",
+          "full ruin"
+        ],
+        "reciprocity": [
+          "do some little job for them",
+          "served"
+        ],
+        "authority": [
+          "artisan of famed excellence",
+          "blacksmith's shop"
+        ]
+      }
+    },
+    "habit_formation": {
+      "temporal_score": 0.4,
+      "frequency_score": 0.3,
+      "convenience_score": 0.2,
+      "platform_score": 0.1,
+      "counts": {
+        "temporal": 6,
+        "frequency": 4,
+        "convenience": 2,
+        "platform": 1
+      },
+      "examples": {
+        "temporal": [
+          "every Sunday",
+          "one bitter winter's midnight",
+          "summer-cool weather"
+        ],
+        "frequency": [
+          "almost incessantly",
+          "always had",
+          "stout ringing"
+        ],
+        "convenience": [
+          "separate entrance",
+          "in the basement"
+        ],
+        "platform": [
+          "on deck"
+        ]
+      }
+    },
+    "emotional_appeals": {
+      "fear_score": 0.7,
+      "hope_score": 0.3,
+      "belonging_score": 0.5,
+      "status_score": 0.4,
+      "examples": {
+        "fear": [
+          "desperate burglar",
+          "deadly numbness",
+          "woe on woe"
+        ],
+        "hope": [
+          "blithe, ruddy children",
+          "happy home",
+          "delicious grief"
+        ],
+        "belonging": [
+          "family's heart",
+          "loving healthy wife",
+          "cheerful-looking church"
+        ],
+        "status": [
+          "artisan of famed excellence",
+          "owned a house and garden"
+        ]
+      }
+    },
+    "cultural_adaptations": {
+      "cultural_elements": [
+        "Protestant work ethic",
+        "Victorian moral values",
+        "Family-centered narrative"
+      ],
+      "local_references": [
+        "country towns",
+        "church in grove",
+        "house and garden"
+      ],
+      "communication_style": "formal",
+      "trust_building": [
+        "religious references",
+        "work ethic emphasis",
+        "family values"
+      ]
+    },
+    "total_words": 1024,
+    "sophistication_score": 0.7,
+    "primary_strategy": "identity-driven",
+    "key_insights": [
+      "Heavy emphasis on personal tragedy and moral consequences",
+      "Strong focus on work ethic and craftsmanship identity",
+      "Uses Victorian-era values to build emotional resonance",
+      "Leverages loss aversion as primary motivator"
+    ],
+    "publisher_name": "Test Publisher",
+    "detected_language": "en",
+    "language_name": "English",
+    "analysis_timestamp": "2025-07-25T23:17:16.448620",
+    "analysis_method": "claude_ai",
+    "claude_model": "claude-3-5-sonnet-20241022"
+  }
+}

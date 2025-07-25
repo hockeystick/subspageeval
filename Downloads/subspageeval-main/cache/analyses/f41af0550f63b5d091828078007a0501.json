@@ -1,0 +1,140 @@
+{
+  "cache_timestamp": "2025-07-25T23:03:39.217546",
+  "publisher_name": "Test Publisher (CS)",
+  "language": "cs",
+  "analysis_result": {
+    "motivation_framework": {
+      "support_ratio": 0.67,
+      "mission_density": 0.15,
+      "feature_density": 0.15,
+      "identity_score": 0.23,
+      "community_score": 0.31,
+      "counts": {
+        "support": 2,
+        "transactional": 1,
+        "mission": 1,
+        "feature": 1,
+        "identity": 1,
+        "community": 2
+      },
+      "examples": {
+        "support": [
+          "podpořte nezávislou žurnalistiku",
+          "staňte se součástí"
+        ],
+        "transactional": [
+          "Předplaťte si"
+        ],
+        "mission": [
+          "nezávislou žurnalistiku"
+        ],
+        "feature": [
+          "neomezený přístup k článkům, analýzám a exkluzivnímu obsahu"
+        ],
+        "identity": [
+          "staňte se součástí naší komunity"
+        ],
+        "community": [
+          "naší komunity čtenářů",
+          "staňte se součástí"
+        ]
+      }
+    },
+    "behavioral_triggers": {
+      "scarcity_score": 0.0,
+      "social_proof_score": 0.31,
+      "loss_aversion_score": 0.0,
+      "reciprocity_score": 0.23,
+      "authority_score": 0.15,
+      "counts": {
+        "scarcity": 0,
+        "social_proof": 1,
+        "loss_aversion": 0,
+        "reciprocity": 1,
+        "authority": 1
+      },
+      "examples": {
+        "scarcity": [],
+        "social_proof": [
+          "naší komunity čtenářů"
+        ],
+        "loss_aversion": [],
+        "reciprocity": [
+          "podpořte nezávislou žurnalistiku"
+        ],
+        "authority": [
+          "nezávislou žurnalistiku"
+        ]
+      }
+    },
+    "habit_formation": {
+      "temporal_score": 0.0,
+      "frequency_score": 0.0,
+      "convenience_score": 0.15,
+      "platform_score": 0.0,
+      "counts": {
+        "temporal": 0,
+        "frequency": 0,
+        "convenience": 1,
+        "platform": 0
+      },
+      "examples": {
+        "temporal": [],
+        "frequency": [],
+        "convenience": [
+          "neomezený přístup"
+        ],
+        "platform": []
+      }
+    },
+    "emotional_appeals": {
+      "fear_score": 0.0,
+      "hope_score": 0.23,
+      "belonging_score": 0.31,
+      "status_score": 0.15,
+      "examples": {
+        "fear": [],
+        "hope": [
+          "podpořte nezávislou žurnalistiku"
+        ],
+        "belonging": [
+          "staňte se součástí naší komunity"
+        ],
+        "status": [
+          "exkluzivnímu obsahu"
+        ]
+      }
+    },
+    "cultural_adaptations": {
+      "cultural_elements": [
+        "emphasis on intellectual independence",
+        "community-based appeal",
+        "skepticism towards authority"
+      ],
+      "local_references": [
+        "nezávislou žurnalistiku"
+      ],
+      "communication_style": "direct",
+      "trust_building": [
+        "emphasis on independence",
+        "community membership",
+        "quality journalism"
+      ]
+    },
+    "total_words": 26,
+    "sophistication_score": 0.65,
+    "primary_strategy": "mission-driven",
+    "key_insights": [
+      "Leverages Czech intellectual tradition and value of independence",
+      "Emphasizes community membership over individual benefits",
+      "Balances mission-driven and practical value propositions",
+      "Appeals to educated, critically-thinking audience"
+    ],
+    "publisher_name": "Test Publisher (CS)",
+    "detected_language": "cs",
+    "language_name": "Czech",
+    "analysis_timestamp": "2025-07-25T23:03:39.217400",
+    "analysis_method": "claude_ai",
+    "claude_model": "claude-3-5-sonnet-20241022"
+  }
+}

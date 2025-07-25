@@ -1,0 +1,175 @@
+{
+  "cache_timestamp": "2025-07-25T23:18:28.477038",
+  "publisher_name": "DenikN",
+  "language": "cs",
+  "analysis_result": {
+    "motivation_framework": {
+      "support_ratio": 0.7,
+      "mission_density": 0.15,
+      "feature_density": 0.25,
+      "identity_score": 0.6,
+      "community_score": 0.4,
+      "counts": {
+        "support": 3,
+        "transactional": 2,
+        "mission": 2,
+        "feature": 8,
+        "identity": 3,
+        "community": 2
+      },
+      "examples": {
+        "support": [
+          "Podpořte nezávislou novinařinu",
+          "nadstandardní podpora novinařiny"
+        ],
+        "transactional": [
+          "Dokončit a zaplatit",
+          "Vyberte si způsob platby"
+        ],
+        "mission": [
+          "pomáhá rozumět lépe světu",
+          "nezávislou novinařinu"
+        ],
+        "feature": [
+          "mobilní aplikace",
+          "audioverze článků",
+          "kompletní archiv",
+          "denní zpravodajský souhrn"
+        ],
+        "identity": [
+          "články novinářských osobností",
+          "Klub N (nejoblíbenější)"
+        ],
+        "community": [
+          "odemykání článků pro přátele",
+          "novinky z redakce"
+        ]
+      }
+    },
+    "behavioral_triggers": {
+      "scarcity_score": 0.3,
+      "social_proof_score": 0.4,
+      "loss_aversion_score": 0.2,
+      "reciprocity_score": 0.5,
+      "authority_score": 0.6,
+      "counts": {
+        "scarcity": 1,
+        "social_proof": 2,
+        "loss_aversion": 1,
+        "reciprocity": 2,
+        "authority": 3
+      },
+      "examples": {
+        "scarcity": [
+          "68% sleva proti ceně na stánku"
+        ],
+        "social_proof": [
+          "nejoblíbenější",
+          "mnoha dalších"
+        ],
+        "loss_aversion": [
+          "Využijte Deník N naplno"
+        ],
+        "reciprocity": [
+          "získejte knihu zdarma",
+          "získejte navíc"
+        ],
+        "authority": [
+          "Petra Procházková",
+          "Petr Koubský",
+          "Michael Romancov"
+        ]
+      }
+    },
+    "habit_formation": {
+      "temporal_score": 0.8,
+      "frequency_score": 0.7,
+      "convenience_score": 0.6,
+      "platform_score": 0.5,
+      "counts": {
+        "temporal": 4,
+        "frequency": 3,
+        "convenience": 3,
+        "platform": 4
+      },
+      "examples": {
+        "temporal": [
+          "každý všední den",
+          "denní zpravodajský souhrn",
+          "páteční výběr"
+        ],
+        "frequency": [
+          "každý pátek",
+          "od roku 2018",
+          "automatické obnovování"
+        ],
+        "convenience": [
+          "v prohlížeči na webu i v mobilu",
+          "do e-⁠mailové schránky",
+          "mobilní aplikace"
+        ],
+        "platform": [
+          "web",
+          "mobil",
+          "aplikace",
+          "tištěné noviny"
+        ]
+      }
+    },
+    "emotional_appeals": {
+      "fear_score": 0.2,
+      "hope_score": 0.6,
+      "belonging_score": 0.5,
+      "status_score": 0.4,
+      "examples": {
+        "fear": [
+          "nezávislou novinařinu"
+        ],
+        "hope": [
+          "pomáhá rozumět lépe světu"
+        ],
+        "belonging": [
+          "Klub N",
+          "novinky z redakce"
+        ],
+        "status": [
+          "nadstandardní podpora",
+          "výhodnější ceny vybraných akcí"
+        ]
+      }
+    },
+    "cultural_adaptations": {
+      "cultural_elements": [
+        "emphasis on intellectual discourse",
+        "focus on independent journalism",
+        "European perspective"
+      ],
+      "local_references": [
+        "Czech journalists",
+        "TV program inclusion",
+        "regional pricing"
+      ],
+      "communication_style": "direct",
+      "trust_building": [
+        "prominent Czech journalists",
+        "independent journalism emphasis",
+        "transparency in pricing"
+      ]
+    },
+    "total_words": 427,
+    "sophistication_score": 0.75,
+    "primary_strategy": "mission-driven",
+    "key_insights": [
+      "Strong emphasis on intellectual and independent journalism reflecting Czech values",
+      "Balance between digital innovation and traditional print media",
+      "Focus on building trust through prominent Czech personalities",
+      "Appeal to European identity and intellectual discourse"
+    ],
+    "publisher_name": "DenikN",
+    "detected_language": "cs",
+    "language_name": "Czech",
+    "analysis_timestamp": "2025-07-25T23:18:28.476608",
+    "analysis_method": "claude_ai",
+    "claude_model": "claude-3-5-sonnet-20241022"
+  }
+}
